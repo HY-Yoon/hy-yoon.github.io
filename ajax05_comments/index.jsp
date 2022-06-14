@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+인덱스 페이지입니다.
+git테스트예요
+    수정했습니다.
 </body>
 </html>
